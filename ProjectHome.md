@@ -1,0 +1,1 @@
+The QoSmap is a test drive phone that generates Key Performance Indicators (KPIs) from the information collected from the users via crowd-sourcing and shares its results. This information allows the user to benchmark different MNOs on different network services and see the quality of service that can be expected on a geographical area.
